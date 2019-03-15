@@ -1,4 +1,4 @@
-package com.sinshil.myThor
+package com.sinshil.thor
 
 import org.junit.Test
 

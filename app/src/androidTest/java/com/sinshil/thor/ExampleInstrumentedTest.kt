@@ -1,4 +1,4 @@
-package com.sinshil.myThor
+package com.sinshil.thor
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
