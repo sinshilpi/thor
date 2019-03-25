@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Thor</string>
+    <string name="booking_offer_title">Booking Offer</string>
+    <string name="navigation_header_title">Actions you can take</string>
 </resources>
